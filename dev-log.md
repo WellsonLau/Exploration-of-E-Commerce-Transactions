@@ -1,3 +1,5 @@
+* This page is a documentation of a project that will later be polished into a README.md file *
+
 # Exploration-of-E-Commerce-Transactions
 The goal of this project is to document my learning process in discovering skills & tools for data analytics. <br>
 I explored Kaggle for a dataset that picqued my interest: https://www.kaggle.com/datasets/steve1215rogg/e-commerce-dataset/data. <br>

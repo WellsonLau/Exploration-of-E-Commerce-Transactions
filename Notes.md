@@ -55,7 +55,7 @@ All 531 instances of clothing were unique. No sales were heavily dependent on on
 - \# of sales were spread uniform throughout the month, a bulk of transactions in one day was not the cause of higher sales.
 - **Conclusion -** Because the cost of items has a significant range in price, a higher # of sales is likely to result in more revenue. Keeping in mind the exception that the items being sold aren’t a bulk of low cost items.
   - Potential Next Steps for deeper dives: Investigate why April had way more sales(may not be contained in the data itself): Seasonal trend, celebrity influence, specific items being sold? Newer customers?
-
+https://github.com/WellsonLau/Exploration-of-E-Commerce-Transactions/tree/main
 # 7/6
 
 # Does the Pattern Hold for the Bigger Picture?

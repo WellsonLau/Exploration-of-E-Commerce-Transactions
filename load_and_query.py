@@ -26,4 +26,15 @@ result = pd.read_sql_query(query, conn)
 print("\nQuery Result:")
 print(result)
 
+# practice query - Get total revenue of a category
+query = """
+SELECT Category, SUM("Final_Price(Rs.)") as Clothing_Revenue
+FROM transactions
+Where category = 'Clothing'
+"""
+
+result = pd.read_sql_query(query, conn)
+print("\nQuery Result:")
+print(result)
+
 conn.close()
